@@ -1,0 +1,17 @@
+commit 5de796f331b04d7ce0ba5e39d596795d1f883329
+Author: Alberto <alberto.noriega@vlim.com.mx>
+Date:   Mon Sep 2 16:31:22 2019 -0500
+
+    Se agregro unos campos de dinero y se cambiaron los estilos generales
+
+commit c0395b46e4fd6aa38b5c23ba3ef3d4b375ac4d48
+Author: Alberto <alberto.noriega@vlim.com.mx>
+Date:   Mon Sep 2 16:28:00 2019 -0500
+
+    Se agrego un complemento del titulo y varias modificciones al menu de ususario
+
+commit e98b5dce5d1cb2afcfecb8eb5d21558ded42bcea
+Author: Alberto <alberto.noriega@vlim.com.mx>
+Date:   Mon Sep 2 16:23:51 2019 -0500
+
+    Iniciamos subiendo los arhivos iniciales
